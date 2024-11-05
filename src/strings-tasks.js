@@ -547,7 +547,6 @@ function getCardId(value) {
     'Q♠': 50,
     'K♠': 51,
   };
-
   return obj[value];
 }
 
